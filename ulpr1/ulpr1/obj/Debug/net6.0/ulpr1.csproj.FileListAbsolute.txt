@@ -1,0 +1,15 @@
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\bin\Debug\net6.0\ulpr1.exe
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\bin\Debug\net6.0\ulpr1.deps.json
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\bin\Debug\net6.0\ulpr1.runtimeconfig.json
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\bin\Debug\net6.0\ulpr1.dll
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\bin\Debug\net6.0\ref\ulpr1.dll
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\bin\Debug\net6.0\ulpr1.pdb
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\obj\Debug\net6.0\ulpr1.csproj.AssemblyReference.cache
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\obj\Debug\net6.0\ulpr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\obj\Debug\net6.0\ulpr1.AssemblyInfoInputs.cache
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\obj\Debug\net6.0\ulpr1.AssemblyInfo.cs
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\obj\Debug\net6.0\ulpr1.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\obj\Debug\net6.0\ulpr1.dll
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\obj\Debug\net6.0\ref\ulpr1.dll
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\obj\Debug\net6.0\ulpr1.pdb
+C:\Users\Вадим\source\repos\ulpr1\ulpr1\obj\Debug\net6.0\ulpr1.genruntimeconfig.cache
