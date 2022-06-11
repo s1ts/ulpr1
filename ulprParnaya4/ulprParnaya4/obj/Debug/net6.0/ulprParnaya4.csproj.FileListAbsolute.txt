@@ -1,0 +1,15 @@
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\bin\Debug\net6.0\ulprParnaya4.exe
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\bin\Debug\net6.0\ulprParnaya4.deps.json
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\bin\Debug\net6.0\ulprParnaya4.runtimeconfig.json
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\bin\Debug\net6.0\ulprParnaya4.dll
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\bin\Debug\net6.0\ref\ulprParnaya4.dll
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\bin\Debug\net6.0\ulprParnaya4.pdb
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\obj\Debug\net6.0\ulprParnaya4.csproj.AssemblyReference.cache
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\obj\Debug\net6.0\ulprParnaya4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\obj\Debug\net6.0\ulprParnaya4.AssemblyInfoInputs.cache
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\obj\Debug\net6.0\ulprParnaya4.AssemblyInfo.cs
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\obj\Debug\net6.0\ulprParnaya4.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\obj\Debug\net6.0\ulprParnaya4.dll
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\obj\Debug\net6.0\ref\ulprParnaya4.dll
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\obj\Debug\net6.0\ulprParnaya4.pdb
+C:\Users\Вадим\source\repos\ulprParnaya4\ulprParnaya4\obj\Debug\net6.0\ulprParnaya4.genruntimeconfig.cache
